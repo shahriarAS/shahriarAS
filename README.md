@@ -1,22 +1,54 @@
-<h1 align="center">Hey 👋, This is Shahriar Ahmed Shovon</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+## Hi This is Shahriar Ahmed Shovon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-programmer" /> </p>
+I am passionate about Full-Stack web application development from Bangladesh. I am a skilled Back-end Developer experienced with NodeJS, Express JS and master of Front-end tools like HTML5, CSS3, JS, React, Bootstrap & etc. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriar-programmer" alt="shahriar-programmer" /></a> </p>
+:coffee: &emsp;Connect with me!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/facebook.com/shovon.0.ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/shovon.0.ahmed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucabqqchafcecedrcrqhreja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucabqqchafcecedrcrqhreja" height="30" width="40" /></a>
-</p>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shovon.0.ahmed) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCabqqchAfCeCEdRcrqHreJA) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shovonshahriar01@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### Things I code with
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-programmer&show_icons=true&locale=en&layout=compact" alt="shahriar-programmer" /></p>
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar-programmer&show_icons=true&locale=en" alt="shahriar-programmer" /></p>
+### Tutorials
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-programmer&" alt="shahriar-programmer" /></p>
+[![SCSS Playlist](https://img.shields.io/badge/SCSS-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB)](https://www.youtube.com/playlist?list=PLnOVFGQRwENaErQy5X1LcP8NxyFe-kVqO) [![TailwindCSs Playlist](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)](https://www.youtube.com/playlist?list=PLnOVFGQRwENahzmXqzTUm56IBggk1yN7C)
 
+### My Projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://umc.netlify.app/" target="_blank">UMC</a></td>
+      <td>A website built with React for UMC.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.eepc.xyz/" target="_blank">EEPC</a></td>
+      <td>EEPC is a complete English learning platform for every aspects of students</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/shahriar-programmer/R-Index-Chrome-Extension" target="_blank">R Index</a></td>
+      <td>According to Enayet Chowdhury, YouTube subscriber number is not sufficient to judge a channel's growth. So he proposed a new system called 'R Index'. Since I am a big fan of Enayet Chowdhury and his content, I made this chrome extension which show 'R Index' along with subscriber count. </td>
+    </tr>
+  </tbody>
+</table>
+
+#### Business
+
+:email: &emsp;shovonshahriar01@gmail.com
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shahriar-programmer.shahriar-programmer)
+
+
+#### Github Stats
+
+![shahriar-programmer's github stats](https://github-readme-stats.vercel.app/api?username=shahriar-programmer&count_private=true&theme=tokyonight&hide=contribs,prs)

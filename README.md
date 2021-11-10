@@ -25,8 +25,16 @@ I am passionate about Full-Stack web application development from Bangladesh. I 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://umc.netlify.app/" target="_blank">UMC</a></td>
-      <td>A website built with React for UMC.</td>
+      <td><a href="https://umcraj.com/" target="_blank">UMC</a></td>
+      <td>A complete full-stack website built with NodeJS, Express & React for UMC. This is very similar to Udemy/Coursera or any kind of LMS</td>
+    </tr>
+    <tr>
+      <td><a href="https://wordpress.org/plugins/racydev-linky/" target="_blank">RacyDev Linky WP Plugin</a></td>
+      <td> The most effective link monetized wordpress plugin. Put ad as much as you want, set a timer before the link is revealed. Generate revenue more than anytime.</td>
+    </tr>
+    <tr>
+      <td><a href="https://wordpress.org/plugins/one-click-buy-button-for-woocommerce/" target="_blank">One Click Buy Button For WooCommerce</a></td>
+      <td>This is a wordpress plugin for woocommerce to replace the default "Add To Cart" button redirect page and text. As well as adding "Buy Now" button aside "Add To Cart" with custom redirect page and text.</td>
     </tr>
     <tr>
       <td><a href="https://www.eepc.xyz/" target="_blank">EEPC</a></td>

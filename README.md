@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### As a full-stack web developer, I have extensive experience in both backend and frontend development. I specialize in building robust web applications using NodeJS, Express, and MongoDB on the backend, as well as leveraging HTML5, CSS3, Javascript, Tailwind, React, Next, and other cutting-edge frontend technologies.
+As a full-stack web developer, I have extensive experience in both backend and frontend development. I specialize in building robust web applications using NodeJS, Express, and MongoDB on the backend, as well as leveraging HTML5, CSS3, Javascript, Tailwind, React, Next, and other cutting-edge frontend technologies.
 
 ##### BIO
 

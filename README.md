@@ -4,11 +4,11 @@ As a full-stack web developer, I have extensive experience in both backend and f
 
 ##### BIO
 
-- 🏢 I'm currently working at **PueLink** (Last Update: 2 July, 2022)
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.scss`, `.svg`, `.figma`
+- 🏢 I'm currently working at **MockingBird** (Last Update: 16 Jan, 2024)
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.figma`
 - 🌍 I'm mostly active within the **JS Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **react**, **nodejs**, **development**
+- 💬 Ping me about **react**, **next.js**, **nodejs**
 - 📫 Reach me: shovonshahriar01@gmail.com
 - ⚡️ Fun fact: I love to read a lot.
 

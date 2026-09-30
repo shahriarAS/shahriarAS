@@ -1,21 +1,22 @@
-### Hi there 👋
+### I'm Shovon, a product engineer.
 
-I build and ship production-ready web applications with a focus on stability, clarity, and long-term maintainability.
+At Zagle, which I co-founded, I watched shop staff enter every order into four separate systems and track stock across three sales channels. Then I built the system that brings it all into one place. Today, 10+ paying businesses have processed over $1M in sales through it.
 
-Usually I handle features end-to-end, from API design and database modeling to frontend integration and deployment. Have tendency to prioritize simple, understandable systems over unnecessary abstraction; easier to scale, debug, and extend.
+I handle the product end to end, from customer conversations to designing and shipping code. It keeps orders, stock, couriers and books in sync in one place, and automates businesses operations.
 
-I use TypeScript, Next.js, Node.js, and relational/non-relational databases as primary tools, chosen pragmatically.
+**Results so far**
 
-<!--
-##### BIO
+- $1M+ sales went through Zagle
+- 10+ businesses paying for Zagle
+- 5,000+ students verified on GangUp
 
-- 🏢 I'm currently working at **Zagle**
-- ⚙️ I use daily: `.ts`, `.tsx`, `.yml`, `.json`, `.md`
-- 📫 Reach me: shovonshahriar01@gmail.com
-- ⚡️ Fun fact: I love to read a lot.
+Zagle's code is private, so the story is in the case studies:
 
+- [Zagle](https://shahriarahmed.me/work/zagle): 10+ businesses use Zagle to automate their daily operations
+- [GangUp](https://shahriarahmed.me/work/gangup): 5,000+ students verified on GangUp to travel in groups
 
-### Tutorials
+Available full-time from January 2027
+Dhaka, Bangladesh · UTC+6 · Remote, on-site or relocation
 
-[![SCSS Playlist](https://img.shields.io/badge/SCSS-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB)](https://www.youtube.com/playlist?list=PLnOVFGQRwENaErQy5X1LcP8NxyFe-kVqO) [![TailwindCSs Playlist](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)](https://www.youtube.com/playlist?list=PLnOVFGQRwENahzmXqzTUm56IBggk1yN7C)
--->
+If you're hiring, email me: shovonshahriar01@gmail.com
+[Portfolio](https://shahriarahmed.me) · [LinkedIn](https://www.linkedin.com/in/shahriar-ahmed-shovon/) · [Blog](https://blog.shahriarahmed.me/)
